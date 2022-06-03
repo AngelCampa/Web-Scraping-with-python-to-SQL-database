@@ -1,1 +1,10 @@
-# Web-Scraping-to-SQL-database
+# Web-Scraping-to-MySQL-database
+
+Development of a web scraping script in Python using the BeautifulSoup library, which retrieved thousands of records from a government website and stored them in a database created in MySQL.
+
+Libraries used: 
+- urllib
+- bs4
+- pandas
+- sqlalchemy
+- pymysql

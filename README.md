@@ -2,7 +2,7 @@
 
 May 2021
 
-Development of a web scraping script in Python using the BeautifulSoup library, which retrieved thousands of records from a government website and stored them in a database created in MySQL.
+This project developed a Python script to extract information from the transcriptions page of Andrés Manuel López Obrador, transfer it to a relational database, and practice querying the database. The methodology involved importing necessary libraries, iterating through web pages to obtain information, and converting the data into data frames to export to MySQL. The project involved testing and writing SQL queries to obtain specific information from the database, such as the number of times specific words were mentioned in López Obrador's speeches.
 
 Libraries used: 
 - urllib
